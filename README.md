@@ -21,28 +21,28 @@ The goal is to showcase security monitoring skills and the ability to create mea
 ### 1. Failed Logons by User
 This chart highlights which users had the most failed logon attempts, helping detect potential brute force or misconfigured accounts.  
 
-![Failed Logons by User](failed-logons-by-user.png)
+![Failed Logons by User](screenshots/failed-logons-by-user.png)
 
 ---
 
 ### 2. Event Distribution by Code
 Shows the count of events grouped by Event ID, making it easier to see which types of events dominate the logs.  
 
-![Event Distribution by Code](event-distribution-by-code.png)
+![Event Distribution by Code](screenshotsevent-distribution-by-code.png)
 
 ---
 
 ### 3. Logon Activity Over Time
 Displays successful logons across users to identify patterns of normal vs. abnormal activity.  
 
-![Logon Activity Over Time](logon-activity-over-time.png)
+![Logon Activity Over Time](screenshots/logon-activity-over-time.png)
 
 ---
 
 ### 4. Privileged Logons
 Highlights logons performed with elevated privileges (e.g., local administrator). This is crucial for spotting risky activity.  
 
-![Privileged Logons](privileged-logons.png)
+![Privileged Logons](screenshot/privileged=logons.png)
 
 ---
 
@@ -62,4 +62,11 @@ Highlights logons performed with elevated privileges (e.g., local administrator)
 
 ---
 
-## 📂 Repository Structure
+
+## ✨ Skills Demonstrated
+- Security log analysis
+- Splunk SPL queries
+- Data visualization
+- Incident detection use cases
+- Hands-on SIEM project workflow
+
