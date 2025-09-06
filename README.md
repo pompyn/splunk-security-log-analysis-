@@ -42,7 +42,7 @@ Displays successful logons across users to identify patterns of normal vs. abnor
 ### 4. Privileged Logons
 Highlights logons performed with elevated privileges (e.g., local administrator). This is crucial for spotting risky activity.  
 
-![Privileged Logons](screenshots/privileged=logons.png)
+![Privileged Logons](screenshots/privileged-logons.png)
 
 ---
 
