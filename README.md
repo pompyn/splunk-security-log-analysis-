@@ -34,7 +34,7 @@ index=main sourcetype=WinEventLog:Security EventCode=4625
 ### 2. Event Distribution by Code
 Shows the count of events grouped by Event ID, making it easier to see which types of events dominate the logs.  
 
-![Event Distribution by Code](screenshots-event-distribution-by-code.png)
+![Event Distribution by Code](screenshots/event-distribution-by-code.png)
 
 **SPL Query:**
 
